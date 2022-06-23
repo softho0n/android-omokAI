@@ -133,7 +133,11 @@ def get_ai_pos():
 ## Examples
 ### Login
 <p align="center"><img src="https://github.com/softho0n/android-omokAI/blob/main/examples/login.png"></p>
+
+
 ### Game
 <p align="center"><img src="https://github.com/softho0n/android-omokAI/blob/main/examples/game_1.png"><img src="https://github.com/softho0n/android-omokAI/blob/main/examples/game_2.png"><img src="https://github.com/softho0n/android-omokAI/blob/main/examples/game_3.png"><img src="https://github.com/softho0n/android-omokAI/blob/main/examples/game_4.png"></p>
+
+
 ### Ranking System
 <p align="center"><img src="https://github.com/softho0n/android-omokAI/blob/main/examples/ranking.png"></p>
